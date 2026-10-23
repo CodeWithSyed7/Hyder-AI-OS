@@ -1,0 +1,11 @@
+{
+  "name": "Hyder OS - Next-Gen AI Operating System",
+  "description": "A futuristic JARVIS-inspired AI Operating System featuring a Neural HUD, live voice interaction, image/video synthesis, and a complete suite of developer productivity tools powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
